@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @saha0209
-- 👀 I’m an IT Professional interested in Front-End Developer/Web Design. 
-- My Experience: WordPress and OpenText- Web Experience Management.
-- 🌱 I’m currently learning Front End Development Libraries. 
-- www.freecodecamp.org 
+- 👀 I’m an IT Professional interested in FrontEnd Developer/Web Design. 
+- My Experience: HTML, CSS, WordPress, and OpenText- Web Experience Management.
+- 🌱 Front End Development Libraries at www.freecodecamp.org  
+- Udemy - 2022 Web Development Bootcamp
 - 💞️ I’m looking to collaborate on any coding projects.
 - 📫 You can reach me at sareaves@aggies.ncat.edu.
+- Website: https://www.canva.com/design/DAE4Wg6JHgM/_1OyXNlN04QESFi8XtFZnQ/view#1 
+- Website: https://www.troopl.com/sahayes 
+- 
 - Thank You... 💖 ✨ 💖
 
 <!---
